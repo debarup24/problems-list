@@ -22,3 +22,5 @@ bool isPrime(int n)
     else
         return false;
 }
+
+// logic : go upto square root
