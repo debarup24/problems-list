@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// 24 hour time format
+
 int main() {
     // your code goes here
     int t;
