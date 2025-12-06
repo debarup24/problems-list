@@ -4,7 +4,7 @@ using namespace std;
 const int N = 1e6+1;
 long long diff[N];
 
-
+//Question Link : https://atcoder.jp/contests/abc188/tasks/abc188_d
 
 int main() {
 	// your code goes here
