@@ -11,7 +11,7 @@ int maximumPopulation(vector<vector<int>>& logs) {
 
         // Step 1: Mark +1 at birth year, -1 at death year
         for (auto &p : logs) {
-            diff[p[0]]++;       // P[0] BIRTH ,,  P[1] DEATH
+            diff[p[0]]++;       // P[0] --> BIRTH ,,  P[1] --> DEATH
             diff[p[1]]--;       
         }
 
