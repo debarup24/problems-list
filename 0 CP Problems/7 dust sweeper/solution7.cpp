@@ -53,6 +53,6 @@ int main() {
     //   cout<< "ZEROS : " << zeroCount << endl; 
     //   cout<< "SUM is  : " << sum << endl;
     
-	} // while
+	} 
 
 }
